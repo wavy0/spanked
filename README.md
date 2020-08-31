@@ -1,8 +1,8 @@
 ### I'm Haste 👋
-Apart of **Chat & Share**, building Discord bots, services, and communities.
+Apart from chatting and managing Instagrams, I building Discord bots, tools, and communities.
 
- - Bored developer; Mainly Javascript, and bits of Python & Java. 💻
- - Music enthusiast; Hip hop, pop, Korean pop, Latin pop, rap. 🎵
- - Bad designer; Experience with a couple of Adobe creative products. 🎨
+ - Building PC's - I like to build PC's as a hobby and sell them. 💻
+ - Music enthusiast - I really enjoy listening to Rap and Pop Music. 🎵
+ - Designer - I like to make logos, banners, pfp's, and much more. 🎨
 
-Bengali from 💖 Michigan, USA
+My Discord: Haste#2361 💖
