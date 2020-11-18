@@ -28,5 +28,3 @@ My Discord: Haste#2361 💖
 <br>
 <br>
 
-# Testing
-Followers : null
