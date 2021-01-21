@@ -25,3 +25,18 @@
 
 <img width="600" height="400" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://steamuserimages-a.akamaihd.net/ugc/1774949390250928799/5F251F9326577FD73DF0F4274FFB7FAFEA6FE316/">  
 
+<p align="left">
+  <a href='https://www.npmjs.com/package/@yaireo/tagify'>
+      <img src="https://img.shields.io/npm/v/@yaireo/tagify.svg" />
+  </a>
+  <a href='https://simple.wikipedia.org/wiki/MIT_License'>
+      <img src="https://img.shields.io/badge/license-MIT-lightgrey" />
+  </a>
+  <img src="https://img.shields.io/bundlephobia/minzip/@yaireo/tagify" />
+  <img src="https://img.shields.io/npm/dw/@yaireo/tagify" />
+</p>
+
+<p align="left">
+  <img src="/docs/mix3.gif?sanitize=true" />
+  <img src="/docs/demo.gif?sanitize=true" />
+</p>
