@@ -4,6 +4,7 @@
 
 
 # Hobbies
+
  - Building PC's - I like to build PC's as a hobby and sell them. 💻
  - Designer - I like to make logos, banners, pfp's, and much more. 🎨
  - Gaming - I play CS:GO, R6, and many other games... 🎧
