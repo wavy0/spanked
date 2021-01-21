@@ -23,3 +23,5 @@
 <br>
 <br>
 
+<img width="400" height="400" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://steamuserimages-a.akamaihd.net/ugc/1774949390250928799/5F251F9326577FD73DF0F4274FFB7FAFEA6FE316/">  
+
