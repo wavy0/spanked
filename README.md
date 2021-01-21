@@ -2,6 +2,7 @@
 
 ### I'm Haste 👋
 
+
 # Hobbies
  - Building PC's - I like to build PC's as a hobby and sell them. 💻
  - Designer - I like to make logos, banners, pfp's, and much more. 🎨
