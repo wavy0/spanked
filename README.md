@@ -1,6 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://cdn.discordapp.com/attachments/664927615034982410/801942100009549844/1593186932_download.gif">  
 
 ### I'm Haste 👋
+### Also known and Novei
 
 
 # Hobbies
