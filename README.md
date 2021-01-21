@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://cdn.discordapp.com/attachments/664927615034982410/801942100009549844/1593186932_download.gif">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/801942100009549844/1593186932_download.gif">  
 
 ### I'm Haste 👋
 ### Alias: Novei
@@ -23,5 +23,5 @@
 <br>
 <br>
 
-<img width="600" height="400" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://steamuserimages-a.akamaihd.net/ugc/1774949390250928799/5F251F9326577FD73DF0F4274FFB7FAFEA6FE316/">  
+<img width="600" height="400" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://steamuserimages-a.akamaihd.net/ugc/1774949390250928799/5F251F9326577FD73DF0F4274FFB7FAFEA6FE316/">  
 
