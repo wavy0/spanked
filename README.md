@@ -1,9 +1,9 @@
 ### I'm Haste 👋
-Apart from gaming and account dealing, I enjoy building Discord bots, tools, and communities.
- 
+
 # Hobbies
  - Building PC's - I like to build PC's as a hobby and sell them. 💻
  - Designer - I like to make logos, banners, pfp's, and much more. 🎨
+ - Gaming - I play CS:GO, R6, and many other games... 🎧
 
 **Discord:** `Haste#2361`
 
