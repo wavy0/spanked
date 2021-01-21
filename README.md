@@ -1,12 +1,11 @@
 ### I'm Haste 👋
 Apart from gaming and account dealing, I enjoy building Discord bots, tools, and communities.
  
- Hobbies/other things I do
+# Hobbies
  - Building PC's - I like to build PC's as a hobby and sell them. 💻
- - Music enthusiast - I really enjoy listening to Rap and Pop Music. 🎵
  - Designer - I like to make logos, banners, pfp's, and much more. 🎨
 
-My Discord: Haste#2361 💖
+My Discord: Haste#2361 
 
 <a href="https://github.com/NoveI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoveI&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Haste's stats" />
