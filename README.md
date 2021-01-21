@@ -2,6 +2,7 @@
 
 ### I'm Haste 👋
 ### Also known and Novei
+### Developer and Gamer
 
 
 # Hobbies
