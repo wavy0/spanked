@@ -4,7 +4,8 @@
 ### Alias: Novei
 ### Developer and Gamer
 
-https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/651515978231971900
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/651515978231971900)
+
 
 # Hobbies
 
