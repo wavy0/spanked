@@ -2,7 +2,7 @@
 
 ### I'm Haste 👋
 ### Alias: Novei
-### Developer and Gamer
+### Developer, Gamer, and Graphics Designer
 
 
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/651515978231971900)](https://dev.discordprofiles.me/openspotify/651515978231971900)
