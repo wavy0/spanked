@@ -10,7 +10,7 @@
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/651515978231971900)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/651515978231971900)
 ![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/651515978231971900)
-
+![meme](https://komarev.com/ghpvc/?username=skeqt&style=flat-square&color=blueviolet) <br>
 
 # Hobbies
 
