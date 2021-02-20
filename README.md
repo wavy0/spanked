@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/801942100009549844/1593186932_download.gif">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/812475909818155108/1077475_madernomden_incognito-mode.gif">  
 
 ### I'm Haste 👋
 ### Alias: Novei
