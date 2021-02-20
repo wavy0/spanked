@@ -12,12 +12,6 @@
 ![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/651515978231971900)
 ![views](https://komarev.com/ghpvc/?username=noveI&style=flat-square&color=blueviolet) <br>
 
-# Hobbies
-
- - Building PC's - I like to build PC's as a hobby and sell them. 💻
- - Designer - I like to make logos, banners, pfp's, and much more. 🎨
- - Gaming - I play CS:GO, R6, and many other games... 🎧
-
 **Discord:** [`Haste#2361`](https://discord.com/users/651515978231971900)
 
 <a href="https://github.com/NoveI">
