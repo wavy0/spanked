@@ -5,7 +5,7 @@
 ### Developer | Graphics Designer
 
 
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/651515978231971900)](https://dev.discordprofiles.me/openspotify/651515978231971900)
+[<img src="https://readme-spotify-status-three.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/u3l5wqtdk1we1qrvkfuuhlvpa)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/651515978231971900?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/651515978231971900)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/651515978231971900)
