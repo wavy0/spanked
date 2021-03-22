@@ -3,6 +3,7 @@
 
 ### Haste
 ## Selling Uplay Names
+## Donate me btc
 
 <img width="242" height="242" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/823369910839017502/jhgnhg.png">  
 
