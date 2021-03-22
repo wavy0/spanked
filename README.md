@@ -1,5 +1,5 @@
 ### Haste
-<img width="800" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/812475909818155108/1077475_madernomden_incognito-mode.gif">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/812475909818155108/1077475_madernomden_incognito-mode.gif">  
 ###
 
 <img width="484" height="485" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/823369910839017502/jhgnhg.png">  
