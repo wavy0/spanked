@@ -1,7 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Haste" src="https://cdn.discordapp.com/attachments/664927615034982410/812475909818155108/1077475_madernomden_incognito-mode.gif">  
 
 ### Haste
-### 
+![Donate Bitcoin](https://en.cryptobadges.io/badge/small/bc1qxdm8hwynf9ppjjwrqk77g3vnf262p0uggf7wx4)
 ###
 
 <a href="https://github.com/NoveI">
