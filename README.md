@@ -1,5 +1,5 @@
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Haste's Stats</h2>
 <a href="https://github.com/Haste1337">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Haste1337" alt="Profile Views Count">
