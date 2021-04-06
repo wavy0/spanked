@@ -19,4 +19,4 @@
 </table>
 </p>
 
-https://discord.c99.nl/widget/theme-4/388676447977603075.png
+<img align="left" width="300" height="100" src="https://discord.c99.nl/widget/theme-4/388676447977603075.png">
