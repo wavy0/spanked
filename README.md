@@ -22,3 +22,5 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/388676447977603075.png" />
 </p>
+
+- Dark Mode is the best mode :)
