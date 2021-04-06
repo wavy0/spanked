@@ -19,4 +19,6 @@
 </table>
 </p>
 
-<img align="center" width="395" height="80" src="https://discord.c99.nl/widget/theme-4/388676447977603075.png">
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/388676447977603075.png" />
+</p>
